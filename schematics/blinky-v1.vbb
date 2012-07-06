@@ -1,0 +1,245 @@
+<breadboard type="Breadboard">
+<GX>
+<XOFFSET>-14</XOFFSET>
+<YOFFSET>-84</YOFFSET>
+<ZOOM> 1</ZOOM>
+</GX>
+	<properties>
+	</properties>
+
+	<components>
+		<component>
+			<X> 154</X>
+			<Y> 168</Y>
+			<rotation> 0</rotation>
+			<locked>False</locked>
+			<class>OpenVBBLibVB.Breadboard.VBB30X1</class>
+				<properties>
+					<property>
+						<name>left</name>
+						<value>154</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>top</name>
+						<value>168</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>orientation</name>
+						<value>0</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>ID</name>
+						<value></value>
+						<description>The part number to appear in the BOM</description>
+					</property>
+					<property>
+						<name>FabID</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+				</properties>
+
+		</component>
+		<component>
+			<X> 392</X>
+			<Y> 266</Y>
+			<rotation> 0</rotation>
+			<locked>False</locked>
+			<class>OpenVBBLibVB.Breadboard.GenericDIP</class>
+				<properties>
+					<property>
+						<name>Part Label</name>
+						<value>microcontroller breakout</value>
+						<description>Sets the Label of the part</description>
+					</property>
+					<property>
+						<name>Part Logo</name>
+						<value></value>
+						<description>Sets the optional Logo to be used in the part</description>
+					</property>
+					<property>
+						<name>PinCount</name>
+						<value>28</value>
+						<description>The number of pins of the DIP IC </description>
+					</property>
+					<property>
+						<name>Spacing</name>
+						<value>6</value>
+						<description>Sets the spacing the resistor in hundreds of mil</description>
+					</property>
+					<property>
+						<name>Pin Names</name>
+						<value>, , , , C0, , , , , , , , ,5V,GND</value>
+						<description>Sets the names of the Comma Seperated Names of Pins</description>
+					</property>
+					<property>
+						<name>Library</name>
+						<value></value>
+						<description>Select a component from the library </description>
+					</property>
+					<property>
+						<name>left</name>
+						<value>392</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>top</name>
+						<value>266</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>orientation</name>
+						<value>0</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>ID</name>
+						<value></value>
+						<description>The part number to appear in the BOM</description>
+					</property>
+					<property>
+						<name>FabID</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+				</properties>
+
+		</component>
+		<component>
+			<X> 280</X>
+			<Y> 350</Y>
+			<rotation> 0</rotation>
+			<locked>False</locked>
+			<class>OpenVBBLibVB.Breadboard.Resistor</class>
+				<properties>
+					<property>
+						<name>Resistance</name>
+						<value>1k</value>
+						<description>Sets the value of the resistance in ohms </description>
+					</property>
+					<property>
+						<name>Spacing</name>
+						<value>4</value>
+						<description>Sets the spacing the resistor in hundreds of mil</description>
+					</property>
+					<property>
+						<name>Function</name>
+						<value>normal</value>
+						<description>Determines the runtime function of the resistor</description>
+					</property>
+					<property>
+						<name>left</name>
+						<value>280</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>top</name>
+						<value>350</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>orientation</name>
+						<value>0</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>ID</name>
+						<value></value>
+						<description>The part number to appear in the BOM</description>
+					</property>
+					<property>
+						<name>FabID</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+				</properties>
+
+		</component>
+		<component>
+			<X> 336</X>
+			<Y> 364</Y>
+			<rotation> 0</rotation>
+			<locked>False</locked>
+			<class>LED.VBBComponent</class>
+				<properties>
+					<property>
+						<name>PropertyBag</name>
+						<value>&lt;propBag&gt;
+&lt;PROPERTY name=&quot;ID&quot; value=&quot;&quot; /&gt;&lt;PROPERTY name=&quot;LED&quot; value=&quot;red&quot; /&gt;&lt;/propBag&gt;</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>PinDiagram</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>Definition</name>
+						<value>LED.VBBComponent</value>
+						<description>The Definition of the Component (visible = false)</description>
+					</property>
+					<property>
+						<name>left</name>
+						<value>336</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>top</name>
+						<value>364</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>orientation</name>
+						<value>0</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>ID</name>
+						<value></value>
+						<description>The part number to appear in the BOM</description>
+					</property>
+					<property>
+						<name>FabID</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>LED</name>
+						<value>red</value>
+						<description>Color</description>
+					</property>
+				</properties>
+
+		</component>
+	</components>
+	<links>
+			<g id="NETLIST_REPRESENTATION" stroke="blue" stroke-width="1">
+			<g czoom=" 1" stroke="black" stroke-width=" 3">
+				<line x1=" 280" y1=" 336" x2=" 280" y2=" 238" width=" 3" layer="" />
+				<line x1=" 280" y1=" 238" x2=" 574" y2=" 238" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="black" stroke-width=" 3">
+				<line x1=" 280" y1=" 336" x2=" 280" y2=" 238" width=" 3" layer="" />
+				<line x1=" 280" y1=" 238" x2=" 574" y2=" 238" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="black" stroke-width=" 3">
+				<line x1=" 280" y1=" 350" x2=" 280" y2=" 238" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="black" stroke-width=" 3">
+				<line x1=" 574" y1=" 266" x2=" 574" y2=" 238" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="red" stroke-width=" 3">
+				<line x1=" 448" y1=" 350" x2=" 448" y2=" 392" width=" 3" layer="" />
+				<line x1=" 448" y1=" 392" x2=" 350" y2=" 392" width=" 3" layer="" />
+			</g>
+		</g>
+		<g id="NETLABELS" stroke="" font-family="courier new" font-size="8" text-anchor="middle">
+		</g>
+		<g id="JUNCTIONS" stroke="black" fill="black">
+		</g>
+
+	</links>
+</breadboard>
