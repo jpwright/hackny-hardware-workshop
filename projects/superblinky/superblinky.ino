@@ -1,4 +1,8 @@
-const int ledPin = 3;    // LED connected to digital PWM pin 3
+/* Blinky v2.0
+   Jason Wright
+*/
+
+const int ledPin = 0;    // LED connected to digital PWM pin 3, 0 on teensy++
 const int analogPin = 0; // Potentiometer connected to analog pin 0
 
 int analogVal;

@@ -1,3 +1,7 @@
+/* Blinky v1.0
+   Jason Wright
+*/
+
 const int ledPin = 0; //0 on teensy++
 
 void setup() {
